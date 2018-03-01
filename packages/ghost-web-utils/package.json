@@ -1,0 +1,8 @@
+{
+  "name": "ghost-web-utils",
+  "version": "1.0.0-beta.0",
+  "description": "This is just a test for semantic-release",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "binavidchen <binavid.chen@gmail.com>"
+}
