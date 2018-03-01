@@ -1,14 +1,14 @@
 {
   "name": "ghost-web-views",
-  "version": "0.0.1-test.0",
+  "version": "0.0.1-test.1",
   "description": "This is just a test for semantic-release",
   "main": "index.js",
   "license": "MIT",
   "author": "binavidchen <binavid.chen@gmail.com>",
   "dependencies": {
-    "ghost-web-components": "^0.0.1-test.0",
+    "ghost-web-components": "^0.0.1-test.1",
     "ghost-web-utils": "1.0.0-beta.1",
-    "ghost-web-widgets": "^0.0.1-test.0",
+    "ghost-web-widgets": "^0.0.1-test.1",
     "react": "^16.2.0"
   }
 }
