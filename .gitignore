@@ -1,2 +1,4 @@
 **/node_modules/**
 **/yarn.lock
+**/.DS_store
+**/yarn-error.log

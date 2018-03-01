@@ -1,7 +1,18 @@
 {
-  "name": "monorepo",
-  "version": "1.0.0-beta",
-  "description": "This is just a test for semantic-release",
-  "main": "index.js",
-  "license": "MIT"
+	"name": "ghost-web",
+	"version": "1.0.0-beta",
+	"description": "This is just a test for semantic-release",
+	"main": "index.js",
+	"license": "MIT",
+	"private": true,
+	"workspaces": [
+		"packages/ghost-web-components",
+		"packages/ghost-web-widgets",
+		"packages/ghost-web-utils",
+		"packages/ghost-web-views"
+	],
+	"author": "binavidchen <binavid.chen@gmail.com>",
+	"devDependencies": {
+		"lerna": "^3.0.0-alpha.1"
+	}
 }
