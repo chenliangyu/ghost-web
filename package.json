@@ -1,0 +1,7 @@
+{
+  "name": "monorepo",
+  "version": "1.0.0-beta",
+  "description": "This is just a test for semantic-release",
+  "main": "index.js",
+  "license": "MIT"
+}
