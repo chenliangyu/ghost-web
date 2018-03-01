@@ -1,8 +1,11 @@
 {
   "packages": [
-    "packages/*"
+    "packages/ghost-web-components",
+    "packages/ghost-web-widgets",
+    "packages/ghost-web-utils",
+    "packages/ghost-web-views"
   ],
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "version": "0.0.1-test.1"
+  "version": "independent"
 }
