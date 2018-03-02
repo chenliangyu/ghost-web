@@ -1,10 +1,9 @@
 {
   "name": "ghost-web",
-  "version": "0.0.0-development",
+  "version": "1.0.1",
   "description": "This is just a test for semantic-release",
   "main": "index.js",
   "license": "MIT",
-  "private": true,
   "workspaces": [
     "packages/ghost-web-components",
     "packages/ghost-web-widgets",
@@ -14,7 +13,7 @@
   "author": "binavidchen <binavid.chen@gmail.com>",
   "devDependencies": {
     "lerna": "^3.0.0-alpha.1",
-    "semantic-release": "^12.4.1"
+    "semantic-release": "^15.0.0"
   },
   "scripts": {
     "semantic-release": "semantic-release"
